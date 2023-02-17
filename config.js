@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Leighton',
 	imageBackground: true,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
