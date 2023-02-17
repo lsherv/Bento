@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://excalidraw.com',
 				},
 				{
-					name: 'GIS',
-					link: 'https://www.reddit.com/r/gis',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Miami',
-					link: 'https://www.reddit.com/r/miami',
+					name: 'GIS',
+					link: 'https://www.reddit.com/r/gis',
 				},
 			],
 		},
