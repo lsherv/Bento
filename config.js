@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Codewars',
+			name: 'AGOL',
 			icon: 'bot',
-			link: 'https://codewars.com',
+			link: 'https://mdc.maps.arcgis.com',
 		},
 		{
 			id: '3',
