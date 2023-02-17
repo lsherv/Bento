@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com/',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Draw',
-			icon: 'figma',
-			link: 'https://excalidraw.com',
+			name: 'GIS',
+			icon: 'globe-2',
+			link: 'https://mdc.maps.arcgis.com',
 		},
 	],
 
@@ -135,12 +135,12 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'youtube',
+			icon: 'tv-2',
 			id: '1',
 			links: [
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com/',
+					name: 'Prime Video',
+					link: 'https://www.amazon.com/gp/video/storefront?clientFilter=on',
 				},
 				{
 					name: 'Hulu',
@@ -154,10 +154,6 @@ const CONFIG = {
 					name: 'Crunchyroll',
 					link: 'https://crunchyroll.com/',
 				},
-				{
-					name: 'Amazon',
-					link: 'https://www.amazon.com/gp/video/storefront?clientFilter=on',
-				},
 			],
 		},
 		{
@@ -170,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Draw',
-					link: 'ttps://excalidraw.com',
+					link: 'https://excalidraw.com',
 				},
 				{
 					name: 'GIS',
@@ -179,22 +175,6 @@ const CONFIG = {
 				{
 					name: 'Miami',
 					link: 'https://www.reddit.com/r/miami',
-				},
-				{
-					name: 'Dolphins',
-					link: 'https://www.reddit.com/r/miamidolphins',
-				},
-				{
-					name: 'Heat',
-					link: 'https://www.reddit.com/r/heat',
-				},
-				{
-					name: 'Javascript',
-					link: 'https://www.reddit.com/r/javascript',
-				},
-				{
-					name: 'Webdev',
-					link: 'https://www.reddit.com/r/webdev',
 				},
 			],
 		},
