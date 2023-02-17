@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '9dbd4163dc9cf0bf8562e7cc8acb437c', // Write here your API Key
@@ -59,14 +59,14 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'AGOL',
-			icon: 'bot',
-			link: 'https://mdc.maps.arcgis.com',
+			name: 'Codewars',
+			icon: 'code',
+			link: 'https://codewars.com',
 		},
 		{
 			id: '3',
 			name: 'hashnode',
-			icon: 'binary',
+			icon: 'codepen',
 			link: 'https://hashnode.com/n/gis',
 		},
 		{
@@ -135,29 +135,33 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'youtube',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Youtube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hulu',
+					link: 'https://www.hulu.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'HBO-Max',
+					link: 'https://www.play.hbomax.com/profile/select',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Crunchyroll',
+					link: 'https://crunchyroll.com/',
+				},
+				{
+					name: 'Amazon',
+					link: 'https://www.amazon.com/gp/video/storefront?clientFilter=on',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'aperture',
 			id: '2',
 			links: [
 				{
@@ -165,16 +169,32 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Draw',
+					link: 'ttps://excalidraw.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'GIS',
+					link: 'https://www.reddit.com/r/gis',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Miami',
+					link: 'https://www.reddit.com/r/miami',
+				},
+				{
+					name: 'Dolphins',
+					link: 'https://www.reddit.com/r/miamidolphins',
+				},
+				{
+					name: 'Heat',
+					link: 'https://www.reddit.com/r/heat',
+				},
+				{
+					name: 'Javascript',
+					link: 'https://www.reddit.com/r/javascript',
+				},
+				{
+					name: 'Webdev',
+					link: 'https://www.reddit.com/r/webdev',
 				},
 			],
 		},
